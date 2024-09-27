@@ -1,7 +1,5 @@
 # Analise_acao
-Prova da disciplina Projeto em Ciência de Dados. Foi feita uma comparação de retornos de 2 carteiras de ações, com base no ROE e na Magic Formula de Joel Greenblatt. 
 Este projeto realiza uma análise financeira de ações brasileiras utilizando dados da *API do Laboratório de Finanças(https://laboratoriodefinancas.com/home). O foco principal é calcular o retorno das ações em comparação com o índice **Ibovespa* e aplicar a *Fórmula Mágica de Joel Greenblatt* para a seleção de ações.
-
 
 ## Objetivo
 
