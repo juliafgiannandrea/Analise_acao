@@ -29,4 +29,4 @@ Ludmila Guedes (https://github.com/LudmilaGuedes/Analise_acao.git)
 
 Isabella Aguiar (https://github.com/isabellaaguiarr/Analise_acao.git)
 
-Júlia Félix Giannandrea ()
+Júlia Félix Giannandrea (https://github.com/juliafgiannandrea/Analise_acao.git)
